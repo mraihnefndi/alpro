@@ -1,6 +1,5 @@
 public class DataDiriMahasiswa {
     public static void main(String[] args) {
-        String nama, nim, prodi, alamat, tempatLahir, tanggalLahir;
         System.out.println("Nama : Muhamad Raihan Efendi");
         System.out.println("NIM : 2022340002");
         System.out.println("Program Studi : Rekayasa Perangkat Lunak");
